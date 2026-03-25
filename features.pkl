@@ -1,0 +1,19 @@
+{
+  "account_length": 120,
+  "international_plan": "no",
+  "voice_mail_plan": "yes",
+  "number_vmail_messages": 25,
+  "total_day_minutes": 300,
+  "total_day_calls": 120,
+  "total_day_charge": 50.0,
+  "total_eve_minutes": 200,
+  "total_eve_calls": 100,
+  "total_eve_charge": 30.0,
+  "total_night_minutes": 150,
+  "total_night_calls": 80,
+  "total_night_charge": 20.0,
+  "total_intl_minutes": 10,
+  "total_intl_calls": 5,
+  "total_intl_charge": 2.7,
+  "customer_service_calls": 2
+}

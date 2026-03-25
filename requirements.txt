@@ -1,0 +1,18 @@
+# Core ML & Data Science
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.7.2
+scipy==1.15.3
+joblib==1.5.3
+threadpoolctl==3.6.0
+
+# Visualization (optional, if you used plots in EDA)
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Web Framework for API
+flask==3.0.2
+flask-cors==4.0.0   # optional, if you need cross-origin requests
+
+# Deployment (optional, if you plan to host)
+gunicorn==23.0.0    # for production WSGI server
