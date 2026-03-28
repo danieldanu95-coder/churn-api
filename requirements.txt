@@ -16,3 +16,5 @@ flask-cors==4.0.0   # optional, if you need cross-origin requests
 
 # Deployment (optional, if you plan to host)
 gunicorn==23.0.0    # for production WSGI server
+
+streamlit==1.24.0
